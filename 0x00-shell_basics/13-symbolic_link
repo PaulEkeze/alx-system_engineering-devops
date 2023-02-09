@@ -1,2 +1,2 @@
 #!/bin/bash
-ln /tmp/bin/ls _ls_
+ln /tmp/_ls_ bin/ls 
